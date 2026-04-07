@@ -97,3 +97,11 @@ function sendNotifications() {
 
   SpreadsheetApp.getUi().alert("Notifications Sent!");
 }
+
+
+
+function testing() {
+  ui.alert("TESTING");
+}
+
+// THIS IS A TESTING BROOOO
